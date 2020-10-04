@@ -40,8 +40,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ### The Other Commands Used:
 
-### npm i react-bootstrap
-### npm install axios
+--> npm i react-bootstrap
+--> npm install axios
 
 ### The Published Github Bookmark Manager:
 
