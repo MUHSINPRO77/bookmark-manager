@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MUHSINPRO77/bookmark-manager.git/static/css/main.791376d3.chunk.css",
+    "main.js": "/MUHSINPRO77/bookmark-manager.git/static/js/main.b726f8ac.chunk.js",
+    "main.js.map": "/MUHSINPRO77/bookmark-manager.git/static/js/main.b726f8ac.chunk.js.map",
+    "runtime-main.js": "/MUHSINPRO77/bookmark-manager.git/static/js/runtime-main.a62c82bd.js",
+    "runtime-main.js.map": "/MUHSINPRO77/bookmark-manager.git/static/js/runtime-main.a62c82bd.js.map",
+    "static/js/2.e657d8b4.chunk.js": "/MUHSINPRO77/bookmark-manager.git/static/js/2.e657d8b4.chunk.js",
+    "static/js/2.e657d8b4.chunk.js.map": "/MUHSINPRO77/bookmark-manager.git/static/js/2.e657d8b4.chunk.js.map",
+    "index.html": "/MUHSINPRO77/bookmark-manager.git/index.html",
+    "precache-manifest.63cbb2185099f92b019fabc155d6dafe.js": "/MUHSINPRO77/bookmark-manager.git/precache-manifest.63cbb2185099f92b019fabc155d6dafe.js",
+    "service-worker.js": "/MUHSINPRO77/bookmark-manager.git/service-worker.js",
+    "static/css/main.791376d3.chunk.css.map": "/MUHSINPRO77/bookmark-manager.git/static/css/main.791376d3.chunk.css.map",
+    "static/js/2.e657d8b4.chunk.js.LICENSE.txt": "/MUHSINPRO77/bookmark-manager.git/static/js/2.e657d8b4.chunk.js.LICENSE.txt",
+    "static/media/Results.css": "/MUHSINPRO77/bookmark-manager.git/static/media/github.5b1f481c.jpg",
+    "static/media/logo.png": "/MUHSINPRO77/bookmark-manager.git/static/media/logo.e45ebd52.png",
+    "static/media/navlogo.png": "/MUHSINPRO77/bookmark-manager.git/static/media/navlogo.427b8bc2.png",
+    "static/media/App.css": "/MUHSINPRO77/bookmark-manager.git/static/media/white.5e39cdaa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a62c82bd.js",
+    "static/js/2.e657d8b4.chunk.js",
+    "static/css/main.791376d3.chunk.css",
+    "static/js/main.b726f8ac.chunk.js"
+  ]
+}
